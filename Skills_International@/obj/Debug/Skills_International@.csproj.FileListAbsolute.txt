@@ -1,0 +1,22 @@
+C:\Users\Malith\Desktop\Skills_International@\Skills_International@\obj\Debug\Skills_International@.csproj.AssemblyReference.cache
+C:\Users\Malith\Desktop\Skills_International@\Skills_International@\obj\Debug\Skills_International_.Form1.resources
+C:\Users\Malith\Desktop\Skills_International@\Skills_International@\obj\Debug\Skills_International_.Properties.Resources.resources
+C:\Users\Malith\Desktop\Skills_International@\Skills_International@\obj\Debug\Skills_International_.Registration_Form2.resources
+C:\Users\Malith\Desktop\Skills_International@\Skills_International@\obj\Debug\Skills_International@.csproj.GenerateResource.cache
+C:\Users\Malith\Desktop\Skills_International@\Skills_International@\obj\Debug\Skills_International@.csproj.CoreCompileInputs.cache
+C:\Users\Malith\Desktop\Skills_International@\Skills_International@\bin\Debug\Skills_International@.exe.config
+C:\Users\Malith\Desktop\Skills_International@\Skills_International@\bin\Debug\Skills_International@.exe
+C:\Users\Malith\Desktop\Skills_International@\Skills_International@\bin\Debug\Skills_International@.pdb
+C:\Users\Malith\Desktop\Skills_International@\Skills_International@\obj\Debug\Skills_International@.exe
+C:\Users\Malith\Desktop\Skills_International@\Skills_International@\obj\Debug\Skills_International@.pdb
+C:\Users\my\Desktop\skills test\Skills_International@\bin\Debug\Skills_International@.exe.config
+C:\Users\my\Desktop\skills test\Skills_International@\bin\Debug\Skills_International@.exe
+C:\Users\my\Desktop\skills test\Skills_International@\bin\Debug\Skills_International@.pdb
+C:\Users\my\Desktop\skills test\Skills_International@\obj\Debug\Skills_International@.csproj.AssemblyReference.cache
+C:\Users\my\Desktop\skills test\Skills_International@\obj\Debug\Skills_International_.Properties.Resources.resources
+C:\Users\my\Desktop\skills test\Skills_International@\obj\Debug\Skills_International@.csproj.GenerateResource.cache
+C:\Users\my\Desktop\skills test\Skills_International@\obj\Debug\Skills_International@.csproj.CoreCompileInputs.cache
+C:\Users\my\Desktop\skills test\Skills_International@\obj\Debug\Skills_International@.exe
+C:\Users\my\Desktop\skills test\Skills_International@\obj\Debug\Skills_International@.pdb
+C:\Users\my\Desktop\skills test\Skills_International@\obj\Debug\Skills_International_.Login.resources
+C:\Users\my\Desktop\skills test\Skills_International@\obj\Debug\Skills_International_.Registration.resources
